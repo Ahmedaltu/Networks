@@ -3,7 +3,7 @@ Connection to labnetwork is through RJ45 connectors named Labnetwork 10.95.0.0/2
  
 <img width="619" alt="Screenshot 2022-05-20 at 21 30 31" src="https://user-images.githubusercontent.com/76178825/169590875-0cc38571-0a25-4de1-9ab8-16fcee5c801f.png">
 
-Each student has his/her own IP address range available according to the following table:
+
 1.	Use Per Vlan Spanninnig tree plus as Spanning Tree protocol
 2.	Routing protocol used in this Case Study is single area OSPF
 3.	Configure parallel Ethernet links as Etherchannels
@@ -18,7 +18,7 @@ Each student has his/her own IP address range available according to the followi
 
 Test your implementation of case study and write a report where you explain how the requirements were configured to devices (what command were used and their possible limitations ) and also explain how and what test were performed and any shortcomings found during testing. Include all configurations from all network devices as appendix to your report. Answer questions presented at the end of this case study. 
 
-If You are uncertain about requirements of this Case Study or if you get stuck in some problems when implementing, don’t hesitate to contact me for advice: tel 050-3535 975 or email: marko.uusitalo@metropolia.fi.
+
 
 Questions: 
 1.	How many links will DS1 see in spanning-tree?
